@@ -8,7 +8,8 @@
 ## Description
 
 An application which shows news articles from various sources using the [News API](https://newsapi.org/), it is made by python web framework, Flask.
-[view-app](https://news-za-dunia.herokuapp.com/)
+  
+# [view-app](https://news-za-dunia.herokuapp.com/)
 ## User Stories
 
 - A user I can view various news sources on the homepage of the application.
