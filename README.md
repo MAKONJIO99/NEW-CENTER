@@ -4,7 +4,6 @@
 
 
 
-#### Live link:https://news-app11.herokuapp.com/
 
 ## Description
 
