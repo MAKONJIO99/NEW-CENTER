@@ -7,7 +7,7 @@
   }
   
   .header {
-    background:beige;
+    background:lightblue;
     min-height: 80vh;
     position: relative;
     width: 100%;
@@ -30,7 +30,7 @@
   .navbar {
     background-color:red;
     border: none;
-    color: white;
+    color: black;
     transition: background-color 1s ease 0s;
   }
   
