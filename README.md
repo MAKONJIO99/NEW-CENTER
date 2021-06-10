@@ -49,5 +49,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
  * MAKONJIO FRANCIS
 [MAKONJIO99 ](https://github.com/MAKONJIO99)
 
-## [License](MIT)
+## [Mit licence statement](https://github.com/MAKONJIO99/NEW-CENTER/blob/main/Licence.md)
  © [FRANCIS MAKONJIO](https://github.com/MAKONJIO99)
