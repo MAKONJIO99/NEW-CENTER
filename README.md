@@ -45,6 +45,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 5. [MDB 4.8.10](https://mdbootstrap.com/)
 6. [SHELL](#)
 
+## COMPLAITS!!!
+    Had any issue using the app? complain [here](https://github.com/MAKONJIO99/NEW-CENTER/issues)
 ## AUTHOR
  * MAKONJIO FRANCIS
 [MAKONJIO99 ](https://github.com/MAKONJIO99)
