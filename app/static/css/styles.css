@@ -28,9 +28,9 @@
   }
   
   .navbar {
-    background-color: transparent;
+    background-color:red;
     border: none;
-    color: black;
+    color: white;
     transition: background-color 1s ease 0s;
   }
   
