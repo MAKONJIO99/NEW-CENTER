@@ -33,8 +33,8 @@ es which direct the user to the source website to read full article details
 
 ### Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/MAKONJIO99/News_APP/issues/new) by including your search query and the expected result.
-If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/MAKONJIO99/News_APP). Please include sample queries and their corresponding results.
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an issue [here](https://github.com/MAKONJIO99/NEW-CENTER/issues) by including your search query and the expected result.
+If you'd like to request a new function, feel free to do so by opening an issue [here](https://github.com/MAKONJIO99/NEW-CENTER/issues). Please include sample queries and their corresponding results.
 
 ## Built with
 
@@ -45,8 +45,8 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 5. [MDB 4.8.10](https://mdbootstrap.com/)
 6. [SHELL](#)
 
-## COMPLAITS
-    Had any issue using the app? complain [here](https://github.com/MAKONJIO99/NEW-CENTER/issues)
+
+    
 ## AUTHOR
  * MAKONJIO FRANCIS
 [MAKONJIO99 ](https://github.com/MAKONJIO99)
